@@ -1,0 +1,12 @@
+[package]
+name = "php-parser"
+version = "0.0.1"
+authors = ["Ivan Stasiuk <brokeyourbike@gmail.com>"]
+description = "PHP parser written in Rust"
+repository = "https://github.com/brokeyourbike/php-parser"
+license = "BSD-3-Clause"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
